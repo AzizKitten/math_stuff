@@ -112,7 +112,7 @@ def send(query):
 
                         st.latex(expr)
                         
-                st.text("-"*50)
+                st.text("-"*75)
     else:
         st.text("No results found")
 
