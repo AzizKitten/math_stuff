@@ -110,7 +110,7 @@ def send(query):
                         for i in range(expr.count('log')):
                             p = expr.find("log(")
 
-                        st.text(expr)
+                        st.latex(expr)
                         
                 st.text("-"*100)
     else:
