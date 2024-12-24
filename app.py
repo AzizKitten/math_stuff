@@ -1,6 +1,5 @@
 import wolframalpha
 import streamlit as st
-import re
 
 def send(query):
     app_id = "J78J28-57PL462PJU"
