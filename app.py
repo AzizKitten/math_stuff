@@ -118,8 +118,8 @@ def send(query):
         st.text("No results found")
 
 st.set_page_config(
-    page_title="Aziz Bot",
-    page_icon="img/favicon.png"
+    page_title="Aziz Math AI",
+    page_icon="assets/img/favicon.png"
 )
 
 def main():
